@@ -12,7 +12,7 @@ const Navbar = () => {
    sx={{justifyContent: "space-between", top: 0, position: "sticky", background: "#000"}}
    >
     <Link to="/" style={{display: "flex", alignItems: "center"}}>
-      <img src={logo} alt="logo" height={45} />
+      <img src={logo} alt="logo" height={45} /> <h3 style={{color: "#fff", marginLeft: "10px", fontFamily:"Roboto"}}>YoooTube</h3>
     </Link>
     <SearchBar />
    </Stack>

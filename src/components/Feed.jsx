@@ -30,11 +30,11 @@ const Feed = () => {
           All rights reserved &copy;
         </Typography>
       </Box>
-      <Box p={2} sx={{height: "90vh", overflowY: "auto", flex: 2}}>
+      <Box p={2} sx={{height: "90vh", overflowY: "auto", flex: 3}}>
         <Typography variant="h4" fontWeight="bold" mb={2} sx={{color: "white"}}>
-          {selectCategory} <span style={{color: "#F31503"}}>Videos</span>
+          {selectCategory} <span style={{color: "#F31503"}}>Videos</span><br />
         </Typography>
-        <Videos videos = {videos}/>
+        <Videos videos = {videos} />
       </Box>
     </Stack>
   );
