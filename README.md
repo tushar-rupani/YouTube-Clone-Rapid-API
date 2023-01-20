@@ -4,5 +4,6 @@ API source: [Link Source](https://rapidapi.com/ytdlfree/api/youtube-v31?utm_sour
 
 Technologies used: <kbd>React</kbd> <kbd>Material UI</kbd> 
 
-Final Demo: [Check from here](https://youtube-clone-rapidapi-24.netlify.app/)
+Final Demo: [Check from here](https://youtube-rapidapi.netlify.app/)
+
 Learn about useRef() : [Tushar's Blog](https://tushar-rupani.hashnode.dev/understanding-useref-in-react)
